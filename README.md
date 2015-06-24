@@ -5,4 +5,4 @@ Windows APIを使用せずに自前のiniファイルを読み込む。
 
 Readind ini-file withoout using Windows API.
 The line include '#' is regarded as comment. 
-Parameters which separeted space are stored the arrays.  
+Parameters which separeted space are stored in the arrays.  
